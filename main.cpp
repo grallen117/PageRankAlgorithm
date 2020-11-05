@@ -1,9 +1,6 @@
 /*******************
   Gary Allen
-  grallen
-  HW 1
-  Lab Section: CPSC 2120-003
-  Completed On: 9/28/19
+  grallen117
 *******************/
 #include <string>
 #include <fstream>
